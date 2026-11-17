@@ -8,7 +8,7 @@ O arquivo do projeto (`rede-ricarte.pkt`) está aqui no repositório, então dá
 
 ## Como a rede é
 
-![Topologia da rede](screenshots/01-topologia.png)
+![Topologia da rede](01-topologia.png)
 
 ```
 [SRV-WEB-EXT]──[RT-ISP]──[RT-EDGE]──[SW1]──┬─ PC-TI1, PC-TI2      (VLAN 10)
